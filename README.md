@@ -1,2 +1,2 @@
 # hello
-#obviouslsy my first change on github
+#obviously my first change on github
